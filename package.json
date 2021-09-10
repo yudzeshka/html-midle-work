@@ -3,11 +3,12 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git",
+    "type": "module",
     "url": "git+https://github.com/yudzeshka/html-midle-work.git"
   },
   "author": "",
@@ -19,4 +20,5 @@
   "devDependencies": {
     "sass": "^1.34.0"
   }
+
 }
