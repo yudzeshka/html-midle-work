@@ -1,11 +1,3 @@
-function getData () {
-    return {
-        firstname: 'John',
-        lastname: 'Doe',
-        gender: 'male',
-    }
-}
-
 function getJumpResult () {
     const jumpResult= [];
     for (let i = 0; i < 3; i++) {
@@ -15,4 +7,3 @@ function getJumpResult () {
 }
 
 export {getJumpResult};
-export {getData} ;
